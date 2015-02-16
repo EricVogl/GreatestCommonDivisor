@@ -4,5 +4,9 @@
     <string name="app_name">GreatestCommonDivisor</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="firstNumberHeaderText">a =</string>
+    <string name="enterNumberHint">Enter a number</string>
+    <string name="secondNumberHeaderText">b =</string>
+    <string name="gcdHeaderText">gcd(a, b) =</string>
 
 </resources>
